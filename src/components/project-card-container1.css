@@ -1,0 +1,60 @@
+.project-cards-child,
+.project-cards-inner,
+.project-cards-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xl);
+  width: 253px;
+  height: 293px;
+}
+.project-cards-inner,
+.project-cards-item {
+  left: 272px;
+}
+.project-cards-inner {
+  left: 544px;
+}
+.emma-medison {
+  position: absolute;
+  top: 103px;
+  left: 26px;
+}
+.emma-medison1,
+.emma-medison2 {
+  position: absolute;
+  top: 103px;
+  left: 305px;
+}
+.emma-medison2 {
+  left: 570px;
+}
+.front-end-development,
+.front-end-development1,
+.front-end-development2 {
+  position: absolute;
+  top: 175px;
+  left: 11px;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+  width: 231px;
+  height: 90px;
+}
+.front-end-development1,
+.front-end-development2 {
+  left: 283px;
+}
+.front-end-development2 {
+  left: 555px;
+}
+.project-cards {
+  position: absolute;
+  top: 210px;
+  left: 242px;
+  width: 797px;
+  height: 293px;
+  text-align: center;
+  font-size: var(--font-size-7xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}

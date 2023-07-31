@@ -1,0 +1,189 @@
+.skills-child {
+  position: absolute;
+  top: 85px;
+  left: 64px;
+  border-radius: var(--br-501xl);
+  width: 1152px;
+  height: 534px;
+}
+.frame-child1 {
+  position: relative;
+  border-radius: var(--br-xs);
+  background: linear-gradient(-90deg, #b673f8, #4ca5ff);
+  box-shadow: 0 0 4px 1px #848afb;
+  width: 14px;
+  height: 3px;
+}
+.skills-inner {
+  position: absolute;
+  top: 563px;
+  left: 593px;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-white);
+  width: 94px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: center;
+}
+.skills1,
+.skills2 {
+  position: absolute;
+  top: 136px;
+  left: 250px;
+}
+.skills2 {
+  top: 506px;
+  left: 922px;
+}
+.arrow-back-icon2 {
+  position: absolute;
+  height: 66.67%;
+  width: 66.67%;
+  top: 16.67%;
+  right: 16.67%;
+  bottom: 16.67%;
+  left: 16.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.arrow-back1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 48px;
+  left: 31px;
+  width: 80px;
+  height: 54px;
+}
+.figma {
+  margin-block-start: 0;
+  margin-block-end: 13px;
+}
+.tailwind-css {
+  margin: 0;
+}
+.figma-react-js-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.figma-react-js-container {
+  position: absolute;
+  top: 184px;
+  left: 307px;
+  font-size: var(--font-size-5xl);
+  display: flex;
+  align-items: flex-end;
+  width: 174px;
+  height: 301px;
+}
+.frame-child2 {
+  position: relative;
+  border-radius: var(--br-9xl) 0 0 var(--br-9xl);
+  background: linear-gradient(-90deg, #b673f8, #4ca5ff);
+  width: 326px;
+  height: 17px;
+}
+.frame-div {
+  position: absolute;
+  top: 213px;
+  left: 482px;
+  border-radius: var(--br-9xl);
+  width: 560px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frame-child3 {
+  position: relative;
+  border-radius: var(--br-9xl) 0 0 var(--br-9xl);
+  background: linear-gradient(-90deg, #b673f8, #4ca5ff);
+  width: 393px;
+  height: 17px;
+}
+.skills-inner1 {
+  position: absolute;
+  top: 262px;
+  left: 482px;
+  border-radius: var(--br-9xl);
+  width: 560px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frame-child4 {
+  position: relative;
+  border-radius: var(--br-9xl) 0 0 var(--br-9xl);
+  background: linear-gradient(-90deg, #b673f8, #4ca5ff);
+  width: 433px;
+  height: 17px;
+}
+.skills-inner2 {
+  position: absolute;
+  top: 311px;
+  left: 482px;
+  border-radius: var(--br-9xl);
+  width: 560px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frame-child5 {
+  position: relative;
+  border-radius: var(--br-9xl) 0 0 var(--br-9xl);
+  background: linear-gradient(-90deg, #b673f8, #4ca5ff);
+  width: 472px;
+  height: 17px;
+}
+.skills-inner3,
+.skills-inner4 {
+  position: absolute;
+  top: 360px;
+  left: 482px;
+  border-radius: var(--br-9xl);
+  width: 560px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.skills-inner4 {
+  top: 409px;
+}
+.frame-child7 {
+  position: relative;
+  border-radius: var(--br-9xl) 0 0 var(--br-9xl);
+  background: linear-gradient(-90deg, #b673f8, #4ca5ff);
+  width: 288px;
+  height: 17px;
+}
+.skills-inner5 {
+  position: absolute;
+  top: 458px;
+  left: 482px;
+  border-radius: var(--br-9xl);
+  width: 560px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.skills {
+  position: relative;
+  background-color: var(--background);
+  width: 100%;
+  height: 832px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}

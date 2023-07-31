@@ -1,0 +1,13 @@
+.frame2 {
+  position: absolute;
+  top: 601px;
+  left: 421px;
+  width: 819px;
+  height: 153px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-313xl);
+}

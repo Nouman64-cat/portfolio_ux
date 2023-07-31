@@ -1,0 +1,28 @@
+.property-1variant2-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-115xl);
+}
+.visit-next {
+  position: absolute;
+  top: 22.22%;
+  left: 29.45%;
+}
+.property-1variant2 {
+  position: absolute;
+  top: 139px;
+  left: 20px;
+  border-radius: var(--br-59xl);
+  background: linear-gradient(-90deg, #b673f8, #4ca5ff);
+  width: 438px;
+  height: 99px;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--background);
+  font-family: var(--font-poppins);
+}

@@ -1,0 +1,14 @@
+.div1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.div {
+  position: relative;
+  width: 49px;
+  height: 54px;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}

@@ -1,0 +1,9 @@
+.component-1 {
+  position: relative;
+  border-radius: 5px;
+  border: 1px dashed #9747ff;
+  box-sizing: border-box;
+  width: 478px;
+  height: 258px;
+  overflow: hidden;
+}

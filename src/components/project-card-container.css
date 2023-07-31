@@ -1,0 +1,139 @@
+.project-cards-child1,
+.project-cards-child2,
+.project-cards-child3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xl);
+  width: 253px;
+  height: 293px;
+}
+.project-cards-child2,
+.project-cards-child3 {
+  left: 272px;
+}
+.project-cards-child3 {
+  left: 544px;
+}
+.nettycom {
+  left: 57px;
+  display: inline-block;
+  width: 139px;
+  height: 56px;
+}
+.nettycom,
+.todo-list-app,
+.uiux {
+  position: absolute;
+  top: 32px;
+}
+.todo-list-app {
+  left: 301px;
+  display: inline-block;
+  width: 196px;
+  height: 56px;
+}
+.uiux {
+  left: 634px;
+}
+.front-end-development3,
+.front-end-development4,
+.front-end-development5 {
+  position: absolute;
+  top: 111px;
+  left: 11px;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+  width: 231px;
+  height: 90px;
+}
+.front-end-development4,
+.front-end-development5 {
+  left: 283px;
+}
+.front-end-development5 {
+  left: 555px;
+}
+.visit-github {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-poppins);
+  color: var(--background);
+  text-align: left;
+}
+.github-1-icon {
+  position: relative;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.visit-github-parent {
+  padding: 0 var(--padding-mini) 0 var(--padding-14xl);
+  top: 229px;
+  left: 31px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-7xl);
+}
+.visit-figma-wrapper,
+.visit-github-group,
+.visit-github-parent {
+  cursor: pointer;
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  border-radius: var(--br-20xl);
+  background: linear-gradient(-90deg, #b673f8, #4ca5ff);
+  width: 195px;
+  height: 42px;
+  display: flex;
+  box-sizing: border-box;
+}
+.visit-github-group {
+  padding: 0 var(--padding-mini) 0 var(--padding-14xl);
+  top: 229px;
+  left: 301px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-7xl);
+}
+.visit-figma-wrapper {
+  padding: 0 var(--padding-14xl);
+  top: 0;
+  left: 0;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.figma-icon {
+  position: absolute;
+  top: 7px;
+  left: 157px;
+  width: 27px;
+  height: 36px;
+  object-fit: cover;
+}
+.frame-parent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 229px;
+  left: 571px;
+  width: 195px;
+  height: 42px;
+}
+.project-cards1 {
+  position: absolute;
+  top: 210px;
+  left: 242px;
+  width: 797px;
+  height: 293px;
+  text-align: center;
+  font-size: var(--font-size-9xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}

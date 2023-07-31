@@ -1,0 +1,121 @@
+.social-child {
+  position: absolute;
+  top: 85px;
+  left: 64px;
+  border-radius: var(--br-501xl);
+  width: 1152px;
+  height: 534px;
+}
+.frame-item {
+  position: relative;
+  border-radius: var(--br-xs);
+  background: linear-gradient(-90deg, #b673f8, #4ca5ff);
+  box-shadow: 0 0 4px 1px #848afb;
+  width: 14px;
+  height: 3px;
+}
+.social-inner {
+  position: absolute;
+  top: 563px;
+  left: 593px;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-white);
+  width: 94px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+}
+.social1,
+.social2 {
+  position: absolute;
+  top: 136px;
+  left: 250px;
+  font-size: var(--font-size-13xl);
+}
+.social2 {
+  top: 504px;
+  left: 911px;
+}
+.arrow-back-icon {
+  position: absolute;
+  height: 66.67%;
+  width: 66.67%;
+  top: 16.67%;
+  right: 16.67%;
+  bottom: 16.67%;
+  left: 16.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.arrow-back {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 48px;
+  left: 31px;
+  width: 80px;
+  height: 54px;
+}
+.knightslasher64gmailcom {
+  position: absolute;
+  top: 208px;
+  left: 495px;
+}
+.httpsgithubcomnouman64-ca,
+.httpswwwinstagramcomnek {
+  position: absolute;
+  top: 320px;
+  left: 495px;
+}
+.httpswwwinstagramcomnek {
+  top: 427px;
+}
+.instagram-circle {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 399px;
+  background-image: url(/public/instagramcircle@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.circled-envelope-icon,
+.github,
+.instagram-circle {
+  position: absolute;
+  left: 393px;
+  width: 90px;
+  height: 90px;
+}
+.github {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 292px;
+  background-image: url(/public/github@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.circled-envelope-icon {
+  top: 184px;
+  object-fit: cover;
+}
+.social {
+  position: relative;
+  background-color: var(--background);
+  width: 100%;
+  height: 832px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}

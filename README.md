@@ -1,10 +1,3 @@
-
-  # My portfolio
-
-  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
-
-  To preview and run the project on your device:
-  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
-  2) In the terminal, run `npm install`
-  3) Run `npm start` to view project in browser
-  
+![Welcome](https://github.com/Nouman64-cat/portfolio_ux/assets/112774247/220d0565-0c5a-49d6-a21c-7053d0b9cbb4)
+![Skills](https://github.com/Nouman64-cat/portfolio_ux/assets/112774247/a2477e40-b49e-44be-9e14-0c08d9ec0ddd)
+![Project](https://github.com/Nouman64-cat/portfolio_ux/assets/112774247/888189f6-fb60-42a2-9ef4-22b3e4eff8e8)
